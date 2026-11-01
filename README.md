@@ -31,7 +31,6 @@ The full notebook takes roughly 40-60 minutes on a T4 (the four Q1 methods on th
 2. Q1 prompts and methods: zero-shot, four-shot, self-consistency (4 samples, T=0.7, top-p=0.95, majority vote), reflection (initial answer + one revision call).
 3. Q1 development experiments (dev set only): error analysis, stricter prompt (SYSTEM B, rejected), parser versions.
 4. Q1 final test run and the per-question comparison (cases where extra inference helped or harmed).
-5. Q2 calculator agent: restricted AST-based calculator (no `eval`/`exec`), security tests, agent loop (`CALC` / `OBSERVATION` / `FINAL`, at most 3 calls), dev run, test run, failure traces.
 
 ## Final results (test, 30 questions)
 
