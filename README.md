@@ -11,7 +11,7 @@ Data: GSM8K (`openai/gsm8k`, config `main`).
 
 ## What is in this repository
 
-- `agentic_ai_assignment.ipynb`: the full code with saved outputs (Q1 and Q2).
+- `Agentic_AI_Assignment1.ipynb`: the full code with saved outputs (Q1 and Q2).
 - `report.pdf`: the written report (approach, experiments, testing, improvements, results, Q3 critique).
 
 ## How to run
